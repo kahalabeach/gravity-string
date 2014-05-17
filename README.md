@@ -1,4 +1,0 @@
-gravity-string
-==============
-
-Main repository
